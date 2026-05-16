@@ -28,7 +28,7 @@ We are a team of passionate innovators dedicated to building sustainable solutio
 
 | *Name*         | *Role*              |
 |------------------|-----------------------|
-| Rajib     | FrontEnd Developer|
+| Rajib     | Product Manager|
 | Argha     | Backend Developer|
 | Imran     | FullStack Developer|
 | Souvik     | Frontend Developer|
