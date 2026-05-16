@@ -1,5 +1,5 @@
-## [*HackWizards - Waste Management System (User Page)*](https://hackwizards.netlify.app/)
-## [*HackWizards - waste Management System (Organizer Page)*](https://hackwizards2.vercel.app/)
+## [*WasteConnect - Waste Management System (User Page)*](https://hackwizards.netlify.app/)
+## [*WasteConnect - waste Management System (Organizer Page)*](https://hackwizards2.vercel.app/)
 
 A smart waste management solution designed to bridge the gap between users and government authorities, making waste collection efficient, transparent, and eco-friendly. This project is part of our submission for the *Smart India Hackathon*.
 
@@ -22,7 +22,7 @@ Our goal is to promote sustainability by reducing inefficiencies in waste collec
 - *Database:* MYSQL, MongoDB
 - *Version Control:* Git & GitHub
 
-## 👥 *HackWizards*
+## 👥 *WasteConnect*
 
 We are a team of passionate innovators dedicated to building sustainable solutions.
 
